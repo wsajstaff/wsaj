@@ -8,7 +8,7 @@
 		<head>
 										<script src="https://y884.wbaltv.com/script.js"></script>
 			
-			<title>WBAL-TV 11 News at 6pm</title>
+			<title>WSAJ Nowcast</title>
 
 			<meta name="msapplication-tap-highlight" content="no">
 <meta name="theme-color" content="#2c2c2c">
@@ -265,7 +265,7 @@ window.LUMIERE_NITEHAWK_URL = "https://nitehawk.hearst.io";window.LUMIERE_ASSETS
         <div class="nowcast-inner " id="nowcast-inner">
             <div class="nowcast-left">
                 <span class="nowcast-title">NOWCAST</span>
-                <span class="nowcast-label" id="nowcast-live-label">WBAL-TV 11 News at 6pm</span>
+                <span class="nowcast-label" id="nowcast-live-label">WSAJ WeatherSlide</span>
             </div>
             <div class="nowcast-right">
                 <span aria-hidden="true">
